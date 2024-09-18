@@ -5,18 +5,10 @@
 int mode = 0;
 int brightness = 0;
 
-
-
 void setup() {
   pinMode(red, OUTPUT);
   //pinMode(green, OUTPUT);
   //pinMode(blue, OUTPUT);
-  
-
- 
-
-
-
 }
 
 void loop() {
